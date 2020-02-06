@@ -1,0 +1,29 @@
+body,
+html {
+    height: 100%;
+}
+
+.comment-box {
+    width: 90%;
+    background: none;
+    border-width: 0;
+    border-bottom-width: 2px;
+    color: #010101;
+    box-shadow: none;
+}
+
+.item-page {
+    padding-top: 5em;
+}
+
+.item-img2 {
+    width: 100%;
+    height: 25em;
+}
+
+.quantity-box {
+    background: none;
+    border-bottom-width: 2px;
+    border-radius: 5px;
+    color: #010101;
+}

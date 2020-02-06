@@ -1,0 +1,62 @@
+html,
+body {
+	height: 100%;
+	width: 100%;
+	
+}
+
+.div {
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/dynamic-style.png") ;
+}
+
+.category>a {
+	color: #010010 !important;
+}
+
+.item-img {
+	/* width: 150px; */
+	height: 300px;
+}
+
+.item-space {
+	margin-left: 6em;
+	margin-top: 3em;
+}
+
+.item-card:hover {
+	box-shadow: 0px 0px 15px -5px #010010;
+	transition-duration: 0.2s;
+	cursor: pointer;
+}
+
+.item-link {
+	color: blueviolet !important;
+}
+
+.item-link:hover {
+	text-decoration: none !important;
+	color: chocolate !important;
+	transition-duration: 0.2 !important;
+}
+
+.search-box {
+	padding-left: 40px;
+	height: 50px !important;
+}
+
+.search-button {
+	height: 50px !important;
+}
+
+.search-section {
+	padding-top: 5em;
+}
+
+.nav-bar {
+	background: #fff;
+	height: 5em;
+	position: fixed;
+	width: 100%;
+	line-height: 5em;
+	z-index: 999;
+}
